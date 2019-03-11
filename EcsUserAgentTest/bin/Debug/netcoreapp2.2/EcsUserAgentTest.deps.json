@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "333e164b6fc81b3453f67492dcdda41adab60868"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EcsUserAgentTest/1.0.0": {
+        "dependencies": {
+          "aliyun-net-sdk-ecs": "4.16.1"
+        },
+        "runtime": {
+          "EcsUserAgentTest.dll": {}
+        }
+      },
+      "aliyun-net-sdk-core/1.1.12": {
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {
+            "assemblyVersion": "1.1.12.0",
+            "fileVersion": "1.1.12.0"
+          }
+        }
+      },
+      "aliyun-net-sdk-ecs/4.16.1": {
+        "dependencies": {
+          "aliyun-net-sdk-core": "1.1.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-ecs.dll": {
+            "assemblyVersion": "4.16.1.0",
+            "fileVersion": "4.16.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcsUserAgentTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aliyun-net-sdk-core/1.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W426hLGD8FjohfoMnNmM/+WR4/WhUCgLERvj2/dIG49F3uPyFdKS9MKaz3ixDkHQ5msyix3JvKTk5ve2d7SVqw==",
+      "path": "aliyun-net-sdk-core/1.1.12",
+      "hashPath": "aliyun-net-sdk-core.1.1.12.nupkg.sha512"
+    },
+    "aliyun-net-sdk-ecs/4.16.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+OzEB/w7hTPrONhHo2C9Al4isHt+FQuzjua8qkFcN4bMfdPSWmYxsVt6nXLGPwcbs+9pCHoE7tQOZ62p+QAHbQ==",
+      "path": "aliyun-net-sdk-ecs/4.16.1",
+      "hashPath": "aliyun-net-sdk-ecs.4.16.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.1": {
+      "aliyun-net-sdk-core/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
+        }
+      },
+      "aliyun-net-sdk-ecs/4.16.1": {
+        "type": "package",
+        "dependencies": {
+          "aliyun-net-sdk-core": "1.1.12"
+        },
+        "compile": {
+          "lib/netstandard2.0/aliyun-net-sdk-ecs.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-ecs.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win7-x86": {
+      "aliyun-net-sdk-core/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {}
+        }
+      },
+      "aliyun-net-sdk-ecs/4.16.1": {
+        "type": "package",
+        "dependencies": {
+          "aliyun-net-sdk-core": "1.1.12"
+        },
+        "compile": {
+          "lib/netstandard2.0/aliyun-net-sdk-ecs.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-ecs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aliyun-net-sdk-core/1.2.0": {
+      "sha512": "GK+zJ5TZqFQH5Q/OMz/0gwzI9yqzeemEZGKX8g1zUikQjJ4qpg2qxncJ1+gPOvxsJrgudkZoaJS67Q8NZA3Alg==",
+      "type": "package",
+      "path": "aliyun-net-sdk-core/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aliyun-net-sdk-core.1.2.0.nupkg.sha512",
+        "aliyun-net-sdk-core.nuspec",
+        "lib/netstandard2.0/aliyun-net-sdk-core.dll"
+      ]
+    },
+    "aliyun-net-sdk-ecs/4.16.1": {
+      "sha512": "+OzEB/w7hTPrONhHo2C9Al4isHt+FQuzjua8qkFcN4bMfdPSWmYxsVt6nXLGPwcbs+9pCHoE7tQOZ62p+QAHbQ==",
+      "type": "package",
+      "path": "aliyun-net-sdk-ecs/4.16.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aliyun-net-sdk-ecs.4.16.1.nupkg.sha512",
+        "aliyun-net-sdk-ecs.nuspec",
+        "lib/netstandard2.0/aliyun-net-sdk-ecs.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.1": [
+      "aliyun-net-sdk-core >= 1.2.0",
+      "aliyun-net-sdk-ecs >= 4.16.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wb-yx518000\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Working\\aliyun-openapi-net-sdk-samples\\EcsUserAgentTest\\EcsUserAgentTest.csproj",
+      "projectName": "EcsUserAgentTest",
+      "projectPath": "D:\\Working\\aliyun-openapi-net-sdk-samples\\EcsUserAgentTest\\EcsUserAgentTest.csproj",
+      "packagesPath": "C:\\Users\\wb-yx518000\\.nuget\\packages\\",
+      "outputPath": "D:\\Working\\aliyun-openapi-net-sdk-samples\\EcsUserAgentTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\wb-yx518000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net471"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net471": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net471": {
+        "dependencies": {
+          "aliyun-net-sdk-core": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          },
+          "aliyun-net-sdk-ecs": {
+            "target": "Package",
+            "version": "[4.16.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\netcoreapp2.2\EcsUserAgentTest.deps.json
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\netcoreapp2.2\EcsUserAgentTest.runtimeconfig.json
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\netcoreapp2.2\EcsUserAgentTest.runtimeconfig.dev.json
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\netcoreapp2.2\EcsUserAgentTest.dll
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\netcoreapp2.2\EcsUserAgentTest.pdb
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.csprojAssemblyReference.cache
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.csproj.CoreCompileInputs.cache
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.AssemblyInfoInputs.cache
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.AssemblyInfo.cs
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.dll
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\netcoreapp2.2\EcsUserAgentTest.pdb
