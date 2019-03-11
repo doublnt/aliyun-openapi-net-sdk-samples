@@ -23,3 +23,4 @@ D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\net471\EcsU
 D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\net471\EcsUserAgentTest.csproj.CopyComplete
 D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\net471\EcsUserAgentTest.exe
 D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\obj\Debug\net471\EcsUserAgentTest.pdb
+D:\Working\aliyun-openapi-net-sdk-samples\EcsUserAgentTest\bin\Debug\net471\SharpConfig.dll
