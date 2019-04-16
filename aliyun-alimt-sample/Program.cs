@@ -30,7 +30,7 @@ namespace aliyun_alimt_sample
 
             var response = client.GetAcsResponse(request);
 
-            Console.WriteLine(response.Message);
+            Console.WriteLine(response.Data.Translated);
         }
     }
 }
